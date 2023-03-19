@@ -1,11 +1,19 @@
+**Instalace programu Jupyter Notebook**
+Ke spuštění programu neuronova-sit.ipynb je potřeba mít nainstalovaný Jupyter Notebook.
+* pokyny k instalaci přes pip naleznete zde: https://jupyter.org/install#jupyter-notebook
+* pokyny k instalaci pomocí programu Anaconda naleznete zde: https://test-jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda
+Výsledek nebude ovlivněn možností,kterou zvolíte.
+
+
+
 **Manuál ke spuštění programu neuronove-site k závěrečnému projektu Filipa Stupky o neuronových sítích:**
 
-1. Přihlaste se k účtu "grafik". 
-2. Stiskněte klávesu Windows, vyhledejte aplikaci "Jupyter Notebook" a spusťte ji.
+1. Složku s kódem stáhněte na plochu.
+2. Vyhledejte aplikaci "Jupyter Notebook" a spusťte ji.
 3. Budete přesměrování na adresu "localhost:8888" se seznamem složek.
 4. Otevřete složku "Desktop".
-5. Otevřete složku "sin2023-stupka".
-6. Otevřete program "neuronove-site".
+5. Otevřete složku "klasifikace-neuronovymi-sitemi".
+6. Otevřete program "neuronova-sit.ipynb".
 7. Otevře se Vám verze projektu se dvěmi skrytými neuronovými sítěmi a aktivační funkcí ReLU.
 8. Na obrazovce vidíte buňky s kódem.
 9. Klikněte do první buňky s komentářem "# import knihoven".
