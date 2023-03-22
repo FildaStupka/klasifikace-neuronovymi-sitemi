@@ -1,8 +1,10 @@
 **Instalace programu Jupyter Notebook**
+
 Ke spuštění programu neuronova-sit.ipynb je potřeba mít nainstalovaný Jupyter Notebook.
 * pokyny k instalaci přes pip naleznete zde: https://jupyter.org/install#jupyter-notebook
 * pokyny k instalaci pomocí programu Anaconda naleznete zde: https://test-jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda
-Výsledek nebude ovlivněn možností,kterou zvolíte.
+
+Výsledek nebude ovlivněn možností, kterou zvolíte.
 
 
 
