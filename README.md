@@ -10,7 +10,7 @@ Výsledek nebude ovlivněn možností, kterou zvolíte.
 
 **Manuál ke spuštění programu neuronove-site k závěrečnému projektu Filipa Stupky o neuronových sítích:**
 
-1. Složku s kódem stáhněte na plochu.
+1. Složku s "klasifikace-neuronovymi-sitemi" s kódem stáhněte na plochu.
 2. Vyhledejte aplikaci "Jupyter Notebook" a spusťte ji.
 3. Budete přesměrování na adresu "localhost:8888" se seznamem složek.
 4. Otevřete složku "Desktop".
