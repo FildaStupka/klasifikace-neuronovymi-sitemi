@@ -6,7 +6,7 @@ Výsledek nebude ovlivněn možností,kterou zvolíte.
 
 
 
-**Manuál ke spuštění programu neuronove-site k závěrečnému projektu Filipa Stupky o neuronových sítích:**
+**Manuál ke spuštění programu neuronove-site ke středoškolské odborné práci Filipa Stupky o neuronových sítích:**
 
 1. Složku s kódem stáhněte na plochu.
 2. Vyhledejte aplikaci "Jupyter Notebook" a spusťte ji.
